@@ -1,0 +1,8 @@
+Nama Dataset  : Phishing Dataset for Machine Learning
+Sumber        : Kaggle
+Link          : https://www.kaggle.com/datasets/shashwatwork/web-page-phishing-detection-dataset
+Tanggal Akses : Juni 2025
+Jumlah Data   : 11.430 baris
+Jumlah Fitur  : 87 fitur numerik
+Jumlah Kelas  : 2 (legitimate dan phishing)
+Distribusi    : Seimbang 50:50
